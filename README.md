@@ -231,9 +231,6 @@ plt.title('Feature Correlation Matrix')
 plt.show()
 ```
 
-<details>
-<summary>🧊 Correlation Heatmaps</summary>
-
 - Highlighted strong correlations (e.g., **HbA1c_level & Blood Glucose**)  
 - Weak correlation with binary/categorical features  
 
