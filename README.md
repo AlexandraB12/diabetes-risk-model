@@ -112,16 +112,17 @@ from imblearn.pipeline import Pipeline as imbPipeline
 ## ⚙️ How to Run
 
 ### Locally
-Clone the repository
+-- Clone the repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
-
-
+```bash
+git clone https://github.com/AlexandraB12/diabetes-risk-model.git
+```
 Navigate into the project folder
 
-cd REPO_NAME
+``` bash
+cd diabetes-risk-model
 
-
+```
 Launch the Jupyter Notebook
 
 jupyter notebook main.ipynb
